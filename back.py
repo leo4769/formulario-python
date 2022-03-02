@@ -1,5 +1,4 @@
 from PyQt5 import uic, QtWidgets
-from pydoc
 
 def funcao_principal():
     linha1 = formulario.lineEdit.text()
